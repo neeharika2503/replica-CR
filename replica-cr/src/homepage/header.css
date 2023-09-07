@@ -8,11 +8,12 @@
     z-index: 100;
 }
 .header_logo{
-    width: 100px;
+    width: 150px;
     object-fit: contain;
-    color: chartreuse;
+    color: rgb(7, 7, 7);
     margin: 0 20px;
     margin-top: 0%;
+    margin-left: 0%;
 }
 .header__nav {
     display: flex;
@@ -24,7 +25,7 @@
     flex-direction: column;
     margin-left: 10px;
     margin-right: 10px;
-    color: rgb(79, 243, 2);
+    color: rgb(213, 218, 211);
   }
   .header__optionLineOne {
     font-size: 10px;
